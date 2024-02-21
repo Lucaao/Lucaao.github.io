@@ -1,15 +1,8 @@
 # Lucaao.github.io
 Publicar meus trabalhos WEB.
 
-# Título <h1>
-## Título <h2>
-### Título <h3>
-#### Título <h4>
-##### Título <h5>
-###### Título <h6>
+###### Linkedin e Sitezinho <h6>
 
-(https://lucaao.github.io/Sitezinho/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-de-freitas-/)
 
-[Bootstrap](https://lucaao.github.io/site/)
-
-![Dr Estranho](https://i.pinimg.com/originals/05/70/56/057056dae3c4c8a5c5426f6c458ba001.gif)
+[![Sitezinho](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lucaao.github.io/Sitezinho/)
